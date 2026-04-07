@@ -6,32 +6,32 @@ const AnimatedImageGrid: React.FC = () => {
   const images = [
     {
       src: "https://i.ibb.co/5WjxMbTp/IMG-2843.jpg",
-      caption: "You Made My Dreams Come True",
+      caption: "",
       delay: 0
     },
     {
       src: "https://i.ibb.co/Ps8GVv8x/IMG-2844.jpg",
-      caption: "Every Moment With You",
+      caption: "",
       delay: 0.2
     },
     {
       src: "https://i.ibb.co/bgvTQ06n/IMG-2846.jpg",
-      caption: "Forever In My Heart",
+      caption: "",
       delay: 0.4
     },
     {
       src: "https://i.ibb.co/V0vkc9XZ/9a6a468c-b345-46df-ae70-6a4348761aa2.jpg",
-      caption: "You Are My Everything",
+      caption: "",
       delay: 0.6
     },
     {
       src: "https://i.ibb.co/33GnHwS/ef144c78-fb40-4141-ac7b-3d0cd1bf0ad5.jpg",
-      caption: "Love Beyond Words",
+      caption: "",
       delay: 0.8
     },
     {
       src: "https://i.ibb.co/MxckH4Tg/IMG-2840.jpg",
-      caption: "Beautiful Like You",
+      caption: "",
       delay: 1.0
     }
   ];
