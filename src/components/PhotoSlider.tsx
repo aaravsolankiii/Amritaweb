@@ -8,7 +8,7 @@ const PhotoSlider = () => {
   const photos = [
   "https://i.ibb.co/k60k7YhN/IMG-2838.jpg, // couple holding hands
 
-  "https://images.unsplash.com/photo-1627964807070-e19d3ca29bdb?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", // couple in sunset
+  "https://i.ibb.co/XkMDHnGR/IMG-2840.jpg", // couple in sunset
 
   "https://plus.unsplash.com/premium_photo-1661367626996-6e75af974221?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", // hugging moment
 
